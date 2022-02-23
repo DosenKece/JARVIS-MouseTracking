@@ -1,0 +1,28 @@
+\babel@toc {indonesian}{}\relax 
+\contentsline {chapter}{KATA PENGANTAR}{v}{Doc-Start}%
+\contentsline {chapter}{DAFTAR ISI}{vii}{Doc-Start}%
+\contentsline {chapter}{DAFTAR GAMBAR}{ix}{chapter*.1}%
+\contentsline {chapter}{DAFTAR TABEL}{xi}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}ARTIFICIAL INTELLIGINCE (AI)}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Apa itu Artificial Intelligence}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Lalu bagaiana dengan perjalanan \textit {artificial intelligences} dalam pengembangan nya dan kapan \textit {artificial intelligences} ditemukan dan mulai dikembangkan}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}PENGENALAN BAHASA PEMOGRAMAN}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Sejarah PT. NASA}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Visi dan Misi}{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Struktur Organisasi}{7}{section.2.3}%
+\contentsline {chapter}{\numberline {3}TINJAUAN PUSTAKA}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Roket Luar Angkasa}{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Gravitasi}{9}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Hukum Newton}{10}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Anti Gravitasi}{10}{subsection.3.2.2}%
+\contentsline {chapter}{\numberline {4}DESAIN DAN IMPLEMENTASI}{11}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Deskripsi Sistem}{11}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Implementasi Alat}{11}{section.4.2}%
+\contentsline {chapter}{\numberline {5}PENGUJIAN DAN EVALUASI}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Skenario Pengujian}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Evaluasi Pengujian}{13}{section.5.2}%
+\contentsline {chapter}{\numberline {6}KESIMPULAN DAN SARAN}{15}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Kesimpulan}{15}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Saran}{15}{section.6.2}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{17}{Item.32}%
+\contentsline {chapter}{BIOGRAFI PENULIS}{17}{Item.32}%
