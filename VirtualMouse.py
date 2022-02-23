@@ -4,6 +4,7 @@ import cv2
 import mouse
 import numpy as np
 import pyautogui
+
 from cvzone.HandTrackingModule import HandDetector
 
 # set cam
